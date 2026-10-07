@@ -1,0 +1,11 @@
+{
+  "invalid": [
+    {
+      "row": 1,
+      "missing": [
+        "data",
+        "type"
+      ]
+    }
+  ]
+}

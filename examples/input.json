@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "id": "e1",
+      "type": "created",
+      "data": {}
+    },
+    {
+      "id": "e2"
+    }
+  ]
+}
